@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://i.imgur.com/VBPhMYR.jpg"/>
+
+---
+
 ### Hi there and welcome to my GitHub page 👋
 I'm Trace! I am currently a student at Prime Digital Academy and a full stack developer. 
 ---
