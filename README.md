@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://imgur.com/VBPhMYR"/>
+<img src="https://i.imgur.com/VBPhMYR.jpg"/>
 ### Hi there and welcome to my GitHub page 👋
 I'm Trace! I am currently a student at Prime Digital Academy and a full stack developer. 
 ---
