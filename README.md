@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <img src=" />
 ### Hi there and welcome to my GitHub page 👋
-I'm Trace Brandt.
+I'm Trace! I am currently a student at Prime Digital Academy and a full stack developer. 
 ---
 ### My current stack
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-- TEXT
+
 ### What's exciting right now? 
-- TEXT
+
 ---
