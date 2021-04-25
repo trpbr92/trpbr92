@@ -1,10 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 I'm Trace! I am currently a student at Prime Digital Academy and a full stack developer. 
-
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][2.2]][2].
-
+Here's my LinkedIn! [![LinkedIn][2.2]][2]
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
